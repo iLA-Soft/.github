@@ -1,8 +1,6 @@
 <div align="center">
   <img src="./assets/ila-soft-logo-dark.png" alt="iLA Soft" width="240" />
 
-  # iLA Soft
-
   **Practical, high-performance audio software for creators and live performers.**
 
   [Company](https://ila-soft.com) · [idolLiveAudio](https://idolliveaudio.com) · [Support](https://ila-soft.com/support) · [Contact](mailto:admin@idolliveaudio.com)
