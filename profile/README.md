@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ila-soft.com/images/Logo_iLA.svg" alt="iLA Soft" width="150" />
+  <img src="./assets/ila-soft-logo-dark.png" alt="iLA Soft" width="240" />
 
   # iLA Soft
 
